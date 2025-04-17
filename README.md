@@ -2,8 +2,6 @@
 
 A Python-based educational tool for understanding how password hashes work and demonstrating the vulnerability of weak passwords to dictionary attacks.
 
-![Hash Cracker Screenshot](https://github.com/username/hash-cracker/raw/main/screenshots/hash_cracker_demo.png)
-
 ## 📚 Educational Purpose
 
 This project was created for educational purposes to demonstrate:
